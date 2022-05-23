@@ -1,7 +1,7 @@
 github-label-manager
 ====================
 
-See *help* section on http://destan.github.com/github-label-manager
+See *help* section on http://lakscastro.github.com/github-label-manager
 
 License
 =======
